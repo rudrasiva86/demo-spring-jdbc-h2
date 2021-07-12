@@ -1,4 +1,4 @@
-package com.rudrasiva86.jdbcdemo.dao;
+package com.rudra.jdbcdemo.dao;
 
 import java.util.HashMap;
 import java.util.List;
@@ -13,8 +13,8 @@ import org.springframework.jdbc.core.namedparam.NamedParameterJdbcTemplate;
 import org.springframework.jdbc.core.simple.SimpleJdbcInsert;
 import org.springframework.stereotype.Repository;
 
-import com.rudrasiva86.jdbcdemo.model.Product;
-import com.rudrasiva86.jdbcdemo.model.ProductMapper;
+import com.rudra.jdbcdemo.model.Product;
+import com.rudra.jdbcdemo.model.ProductMapper;
 
 @Repository
 public class JdbcProductRepository implements ProductRepository {

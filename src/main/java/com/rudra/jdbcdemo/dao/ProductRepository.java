@@ -1,8 +1,8 @@
-package com.rudrasiva86.jdbcdemo.dao;
+package com.rudra.jdbcdemo.dao;
 
 import java.util.List;
 
-import com.rudrasiva86.jdbcdemo.model.Product;
+import com.rudra.jdbcdemo.model.Product;
 
 public interface ProductRepository {
 	Product findById(int i);

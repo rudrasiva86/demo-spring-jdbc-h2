@@ -1,11 +1,11 @@
-package com.rudrasiva86.jdbcdemo;
+package com.rudra.jdbcdemo;
 
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
-import com.rudrasiva86.jdbcdemo.config.AppConfig;
-import com.rudrasiva86.jdbcdemo.dao.JdbcProductRepository;
-import com.rudrasiva86.jdbcdemo.dao.ProductRepository;
-import com.rudrasiva86.jdbcdemo.model.Product;
+import com.rudra.jdbcdemo.config.AppConfig;
+import com.rudra.jdbcdemo.dao.JdbcProductRepository;
+import com.rudra.jdbcdemo.dao.ProductRepository;
+import com.rudra.jdbcdemo.model.Product;
 
 public class Application {
 	public static void main(String[] args) {

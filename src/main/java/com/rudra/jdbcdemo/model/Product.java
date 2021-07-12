@@ -1,4 +1,4 @@
-package com.rudrasiva86.jdbcdemo.model;
+package com.rudra.jdbcdemo.model;
 
 public class Product {
 	

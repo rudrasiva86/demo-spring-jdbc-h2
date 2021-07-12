@@ -1,4 +1,4 @@
-package com.rudrasiva86.jdbcdemo.model;
+package com.rudra.jdbcdemo.model;
 
 import java.sql.ResultSet;
 import java.sql.SQLException;

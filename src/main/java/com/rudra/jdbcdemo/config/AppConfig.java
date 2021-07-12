@@ -1,4 +1,4 @@
-package com.rudrasiva86.jdbcdemo.config;
+package com.rudra.jdbcdemo.config;
 
 import javax.sql.DataSource;
 
@@ -10,7 +10,7 @@ import org.springframework.jdbc.datasource.embedded.EmbeddedDatabaseBuilder;
 import org.springframework.jdbc.datasource.embedded.EmbeddedDatabaseType;
 
 @Configuration
-@ComponentScan("com.rudrasiva86.jdbcdemo")
+@ComponentScan("com.rudra.jdbcdemo")
 public class AppConfig {
 
 	@Bean
